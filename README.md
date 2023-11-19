@@ -1,0 +1,2 @@
+# dinorush
+Dinorush Crypto Game
